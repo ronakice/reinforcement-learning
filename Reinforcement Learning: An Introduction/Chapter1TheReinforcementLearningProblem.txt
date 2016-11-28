@@ -103,3 +103,10 @@ win. Credit is even given to moves that never occurred! Value function methods, 
 contrast, allow individual states to be evaluated. In the end, evolutionary and value
 function methods both search the space of policies, but learning a value function
 takes advantage of information available during the course of play.
+
+Some neural-network textbooks have used the term “trial-and-error” to
+describe networks that learn from training examples. This is an understandable confusion
+because these networks use error information to update connection weights,
+but this misses the essential character of trial-and-error learning as selecting actions
+on the basis of evaluative feedback that does not rely on knowledge of what the
+correct action should be.
