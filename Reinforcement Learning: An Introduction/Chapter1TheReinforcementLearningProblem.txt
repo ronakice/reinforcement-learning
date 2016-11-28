@@ -1,0 +1,4 @@
+Reinforcement Learning
+Suitable for learning from interactive platforms.
+Learns from experience with no prior dataset
+Doesn't uncover structure like Unsupervised Learning, but rather works on maximising the reward signal
